@@ -1,0 +1,52 @@
+Index,en,fr,it,de,es,ko,kana
+0,No species found.,Aucun Pokémon trouvé.,No species found.,No species found.,No species found.,No species found.,No species found.
+1,Select a Species,Choisissez un Pokémon,Select a Species,Select a Species,Select a Species,Select a Species,Select a Species
+2,Cancel,Annuler,Cancel,Cancel,Cancel,Cancel,Cancel
+3,Select Search Method,Choix de la méthode de recherche,Select Search Method,Select Search Method,Select Search Method,Select Search Method,Select Search Method
+4,By Wanted,Par critères,By Wanted,By Wanted,By Wanted,By Wanted,By Wanted
+5,By Pokemon,Par Pokémon,By Pokemon,By Pokemon,By Pokemon,By Pokemon,By Pokemon
+6,By OID,Par Online ID,By OID,By OID,By OID,By OID,By OID
+7,Exit,Quitter,Exit,Exit,Exit,Exit,Exit
+8,No Pokemon was found.,Aucun Pokémon n'a été trouvé.,No Pokemon was found.,No Pokemon was found.,No Pokemon was found.,No Pokemon was found.,No Pokemon was found.
+9,Failed to download Pokemon.,Échec du téléchargement des Pokémon.,Failed to download Pokemon.,Failed to download Pokemon.,Failed to download Pokemon.,Failed to download Pokemon.,Failed to download Pokemon.
+10,Failed to download Pokemon.,Échec du téléchargement du Pokémon.,Failed to download Pokemon.,Failed to download Pokemon.,Failed to download Pokemon.,Failed to download Pokemon.,Failed to download Pokemon.
+11,Failed to download Wanted Data.,Échec du téléchargement des critères.,Failed to download Wanted Data.,Failed to download Wanted Data.,Failed to download Wanted Data.,Failed to download Wanted Data.,Failed to download Wanted Data.
+12,The selected pokemon does not match the wanted requirments.,Le Pokémon choisi ne correspond pas aux critères.,The selected pokemon does not match the wanted requirments.,The selected pokemon does not match the wanted requirments.,The selected pokemon does not match the wanted requirments.,The selected pokemon does not match the wanted requirments.,The selected pokemon does not match the wanted requirments.
+13,"To Continue, please select a pokemon of yours, we will match it up with any possible matches and allow you to choose a match.",Choisissez un Pokémon. Nous allons essayer de trouver des Pokémon dont les critères lui correspond.,"To Continue, please select a pokemon of yours, we will match it up with any possible matches and allow you to choose a match.","To Continue, please select a pokemon of yours, we will match it up with any possible matches and allow you to choose a match.","To Continue, please select a pokemon of yours, we will match it up with any possible matches and allow you to choose a match.","To Continue, please select a pokemon of yours, we will match it up with any possible matches and allow you to choose a match.","To Continue, please select a pokemon of yours, we will match it up with any possible matches and allow you to choose a match."
+14,"To confirm, this is the wanted data.","Pour confirmer, voici les critères.","To confirm, this is the wanted data.","To confirm, this is the wanted data.","To confirm, this is the wanted data.","To confirm, this is the wanted data.","To confirm, this is the wanted data."
+15,Select the online ID.,Choisissez l'Online ID.,Select the online ID.,Select the online ID.,Select the online ID.,Select the online ID.,Select the online ID.
+16,You cannot search by your own online ID!,Vous ne pouvez pas rechercher votre propre Online ID !,You cannot search by your own online ID!,You cannot search by your own online ID!,You cannot search by your own online ID!,You cannot search by your own online ID!,You cannot search by your own online ID!
+17,No Pokemon with this online ID exists!,Aucun Pokémon avec un dresseur possédant cet Online ID n'existe.,No Pokemon with this online ID exists!,No Pokemon with this online ID exists!,No Pokemon with this online ID exists!,No Pokemon with this online ID exists!,No Pokemon with this online ID exists!
+18,%<min>d to %<max>d,%<min>d à %<max>d,%<min>d to %<max>d,%<min>d to %<max>d,%<min>d to %<max>d,%<min>d to %<max>d,%<min>d to %<max>d
+19,Pokemon Wanted Data,Critères,Pokemon Wanted Data,Pokemon Wanted Data,Pokemon Wanted Data,Pokemon Wanted Data,Pokemon Wanted Data
+20,Pokemon You Want,Pokémon,Pokemon You Want,Pokemon You Want,Pokemon You Want,Pokemon You Want,Pokemon You Want
+21,Gender,Sexe,Gender,Gender,Gender,Gender,Gender
+22,Level Range,Niveaux,Level Range,Level Range,Level Range,Level Range,Level Range
+23,Search with these Conditions!,Chercher avec ces critères !,Search with these Conditions!,Search with these Conditions!,Search with these Conditions!,Search with these Conditions!,Search with these Conditions!
+24,Back,Retour,Back,Back,Back,Back,Back
+25,Which gender do you want,Quel sexe désirez-vous ?,Which gender do you want,Which gender do you want,Which gender do you want,Which gender do you want,Which gender do you want
+26,Choose a Letter.,Choisissez une lettre.,Choose a Letter.,Choose a Letter.,Choose a Letter.,Choose a Letter.,Choose a Letter.
+27,Set the Minimum wanted level.,Définissez le niveau minimal.,Set the Minimum wanted level.,Set the Minimum wanted level.,Set the Minimum wanted level.,Set the Minimum wanted level.,Set the Minimum wanted level.
+28,Set the Maximum wanted level.,Définissez le niveau maximal.,Set the Maximum wanted level.,Set the Maximum wanted level.,Set the Maximum wanted level.,Set the Maximum wanted level.,Set the Maximum wanted level.
+29,Search,Recherche,Search,Search,Search,Search,Search
+30,Summary,Résumé,Summary,Summary,Summary,Summary,Summary
+31,Deposit,Déposer,Deposit,Deposit,Deposit,Deposit,Deposit
+32,Are you sure you want to quit GTS?,Êtes-vous sûr de vouloir quitter le GTS ?,Are you sure you want to quit GTS?,Are you sure you want to quit GTS?,Are you sure you want to quit GTS?,Are you sure you want to quit GTS?,Are you sure you want to quit GTS?
+33,Yes,Oui,Yes,Yes,Yes,Yes,Yes
+34,No,Non,No,No,No,No,No
+35,You cannot deposit your last able pokemon in your party!,Vous ne pouvez pas déposer le dernier Pokémon de votre équipe !,You cannot deposit your last able pokemon in your party!,You cannot deposit your last able pokemon in your party!,You cannot deposit your last able pokemon in your party!,You cannot deposit your last able pokemon in your party!,You cannot deposit your last able pokemon in your party!
+36,Do you want to withdraw your pokemon from GTS?,Voulez-vous retirer votre Pokémon du GTS ?,Do you want to withdraw your pokemon from GTS?,Do you want to withdraw your pokemon from GTS?,Do you want to withdraw your pokemon from GTS?,Do you want to withdraw your pokemon from GTS?,Do you want to withdraw your pokemon from GTS?
+37,Are you sure you want to withdraw your pokemon?,Êtes-vous sûr de vouloir retirer votre Pokémon ?,Are you sure you want to withdraw your pokemon?,Are you sure you want to withdraw your pokemon?,Are you sure you want to withdraw your pokemon?,Are you sure you want to withdraw your pokemon?,Are you sure you want to withdraw your pokemon?
+38,"Pokemon withdrawn, please be aware that your pokemon may have had been taken by now.",Pokémon retiré.,"Pokemon withdrawn, please be aware that your pokemon may have had been taken by now.","Pokemon withdrawn, please be aware that your pokemon may have had been taken by now.","Pokemon withdrawn, please be aware that your pokemon may have had been taken by now.","Pokemon withdrawn, please be aware that your pokemon may have had been taken by now.","Pokemon withdrawn, please be aware that your pokemon may have had been taken by now."
+39,Is this the pokemon you want?,Est-ce le Pokémon que vous désirez ?,Is this the pokemon you want?,Is this the pokemon you want?,Is this the pokemon you want?,Is this the pokemon you want?,Is this the pokemon you want?
+40,Stop looking for a pokemon?,Ne pas choisir de Pokémon ?,Stop looking for a pokemon?,Stop looking for a pokemon?,Stop looking for a pokemon?,Stop looking for a pokemon?,Stop looking for a pokemon?
+41,Accept this trade?,Accepter cet échange ?,Accept this trade?,Accept this trade?,Accept this trade?,Accept this trade?,Accept this trade?
+42,Decline this trade?,Décliner cet échange ?,Decline this trade?,Decline this trade?,Decline this trade?,Decline this trade?,Decline this trade?
+43,WANTED INFO,CRITÈRES DEMANDÉS,WANTED INFO,WANTED INFO,WANTED INFO,WANTED INFO,WANTED INFO
+44,Species %<name>s\nlDex No. %<id>03d\nlLevel %<from>d to %<to>d\nlGender %<sexe>s,Nom %<name>s\nlNo. ID : %<id>03d\nlNiveaux de %<from>d à %<to>d\nlSexe : %<sexe>s,Species %<name>s\nlDex No. %<id>03d\nlLevel %<from>d to %<to>d\nlGender %<sexe>s,Species %<name>s\nlDex No. %<id>03d\nlLevel %<from>d to %<to>d\nlGender %<sexe>s,Species %<name>s\nlDex No. %<id>03d\nlLevel %<from>d to %<to>d\nlGender %<sexe>s,Species %<name>s\nlDex No. %<id>03d\nlLevel %<from>d to %<to>d\nlGender %<sexe>s,Species %<name>s\nlDex No. %<id>03d\nlLevel %<from>d to %<to>d\nlGender %<sexe>s
+45,Loading.,Chargement.,Loading.,Loading.,Loading.,Loading.,Loading.
+46,Loading..,Chargement..,Loading..,Loading..,Loading..,Loading..,Loading..
+47,Loading...,Chargement...,Loading...,Loading...,Loading...,Loading...,Loading...
+48,Either,Asexué,Either,Either,Either,Either,Either
+49,Male,Mâle,Male,Male,Male,Male,Male
+50,Female,Femelle,Female,Female,Female,Female,Female

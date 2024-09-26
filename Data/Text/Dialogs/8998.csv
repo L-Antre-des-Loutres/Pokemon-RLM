@@ -1,0 +1,35 @@
+Index,en,fr,es,it,de,ko,kana
+0,Key PSDK,Tch. PSDK,Tecla PSDK,Key PSDK,Key PSDK,Key PSDK,Key PSDK
+1,Description,Description,Descripción,Description,Description,Description,Description
+2,Binding,Association,Asociada,Binding,Binding,Binding,Binding
+3,,,,,,,
+4,A,A,A,A,A,A,A
+5,B,B,B,B,B,B,B
+6,X,X,X,X,X,X,X
+7,Y,Y,Y,Y,Y,Y,Y
+8,UP,HAUT,ARRIBA,UP,UP,UP,UP
+9,DOWN,BAS,ABAJO,DOWN,DOWN,DOWN,DOWN
+10,RIGHT,DROITE,DERECHA,RIGHT,RIGHT,RIGHT,RIGHT
+11,LEFT,GAUCHE,IZQUIERDA,LEFT,LEFT,LEFT,LEFT
+12,,,,,,,
+13,"Validate, Speak, Action","Valider, Parler, Agir","Validar, Hablar, Acción","Validate, Speak, Action","Validate, Speak, Action","Validate, Speak, Action","Validate, Speak, Action"
+14,"Cancel, Run, Quit","Annuler, Courir, Quitter","Cancelar, Correr, Salir","Cancel, Run, Quit","Cancel, Run, Quit","Cancel, Run, Quit","Cancel, Run, Quit"
+15,Open menu,Ouvrir le menu,Abrir el menú,Open menu,Open menu,Open menu,Open menu
+16,Shortcut,Raccourcis,Atajo,Shortcut,Shortcut,Shortcut,Shortcut
+17,Move Up,Déplacement haut,Mover Arriba,Move Up,Move Up,Move Up,Move Up
+18,Move Down,Déplacement bas,Mover Abajo,Move Down,Move Down,Move Down,Move Down
+19,Move Right,Déplacement droite,Mover Derecha,Move Right,Move Right,Move Right,Move Right
+20,Move Left,Déplacement gauche,Mover Izquierda,Move Left,Move Left,Move Left,Move Left
+21,,,,,,,
+22,: Sel. key,: Chx. touche,: Tecla Select,: Sel. key,: Sel. key,: Sel. key,: Sel. key
+23,: JoyPad k.,: t. manette,: Tecla JoyPad,: JoyPad k.,: JoyPad k.,: JoyPad k.,: JoyPad k.
+24,: Reset,: R. à Zéro,: Reiniciar,: Reset,: Reset,: Reset,: Reset
+25,: Quit,: Quitter,: Salir,: Quit,: Quit,: Quit,: Quit
+26,: Chg. key,: Chg. Touche,: Cmb Tecla,: Chg. key,: Chg. key,: Chg. key,: Chg. key
+27,,,,,,,
+28,No joypad connected.,Aucune manette connectée.,No hay un mando conectado.,No joypad connected.,No joypad connected.,No joypad connected.,No joypad connected.
+29,Press a key,Appuyez sur une touche,Pulsar una tecla,Press a key,Press a key,Press a key,Press a key
+30,Invalid key,Touche invalide,Tecla no válida,Invalid key,Invalid key,Invalid key,Invalid key
+31,Do you want to cancel or use this key ?,Voulez-vous annuler ou utiliser cette touche ?,¿Quieres cancelar o usar esta tecla?,Do you want to cancel or use this key ?,Do you want to cancel or use this key ?,Do you want to cancel or use this key ?,Do you want to cancel or use this key ?
+32,Cancel,Annuler,Cancelar,Cancel,Cancel,Cancel,Cancel
+33,Use key,Utiliser la touche,Usar la tecla,Use key,Use key,Use key,Use key
