@@ -1,0 +1,33 @@
+================================Erreur de script================================
+Message :
+undefined method `z' for [#<UI::PokemonFaceSprite:0x13604538>]:Array
+
+Type : NoMethodError
+Script : 00100 NewUIs/00101 Menu/00101 NewSaveLoad.rb (user)
+Ligne : 25
+Date : 28/09/2024 16:59:19
+Game Version : 256
+Logiciel : PSDK 26.30
+===================================Backtraces===================================
+[20] : 00100 NewUIs/00101 Menu/00101 NewSaveLoad.rb (user) | ligne 25 create_pokemon_sprites
+[19] : 4_Systems_106_Save_Load.rb (PSDK) | ligne 165 create_sprites
+[18] : 4_Systems_106_Save_Load.rb (PSDK) | ligne 54 initialize
+[17] : 4_Systems_106_Save_Load.rb (PSDK) | ligne 283 new
+[16] : 4_Systems_106_Save_Load.rb (PSDK) | ligne 283 create_signs
+[15] : 4_Systems_106_Save_Load.rb (PSDK) | ligne 282 upto
+[14] : 4_Systems_106_Save_Load.rb (PSDK) | ligne 282 each
+[13] : 4_Systems_106_Save_Load.rb (PSDK) | ligne 282 map
+[12] : 4_Systems_106_Save_Load.rb (PSDK) | ligne 282 create_signs
+[11] : 4_Systems_106_Save_Load.rb (PSDK) | ligne 264 create_graphics
+[10] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 221 main_begin
+[9] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 139 main
+[8] : tools/GameLoader/Z_main.rb (PSDK) | ligne 18 <top (required)>
+[7] : tools/GameLoader/3_load_extensions.rb (PSDK) | ligne 46 rgss_main
+[6] : tools/GameLoader/50_load_game_uncompiled.rb (PSDK) | ligne 48 <top (required)>
+[5] : ScriptLoad.rb (PSDK) | ligne 198 require
+[4] : ScriptLoad.rb (PSDK) | ligne 198 load_tool
+[3] : tools/GameLoader/Z_load_uncompiled.rb (PSDK) | ligne 17 <top (required)>
+[2] : ScriptLoad.rb (PSDK) | ligne 198 require
+[1] : ScriptLoad.rb (PSDK) | ligne 198 load_tool
+[0] : Game.rb (RMXP) | ligne 11 <main>
+===================================Fin du log===================================
