@@ -24,8 +24,8 @@ module UI
 
     class ControlButton < SpriteStack
       # Array of button coordinates
-      Y_COORDINATES = 360 - 21
-      COORDINATES = [[3, Y_COORDINATES], [83, Y_COORDINATES], [163, Y_COORDINATES], [243, Y_COORDINATES]]
+      Y_COORDINATES = 360 - 31
+      COORDINATES = [[5, Y_COORDINATES], [85, Y_COORDINATES], [165, Y_COORDINATES], [245, Y_COORDINATES]]
     end
   end
 
