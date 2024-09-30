@@ -2,6 +2,7 @@
 Game.rb
 latest.json
 psdk.bat
+Error.log
 lib/
 ruby_builtin_dlls/
 pokemonsdk/

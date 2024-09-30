@@ -11,6 +11,24 @@ module GamePlay
 end
 
 module UI
+  # Défini @base_ui dans la plupart des interfaces
+  class GenericBase < SpriteStack
+    def create_button_background
+      button_background_height = 52
+      @button_background = add_sprite(0, 360 - button_background_height, button_background_filename).set_z(500)
+    end
+    
+    def button_background_filename
+      'gui/bottom_button_bar'
+    end
+
+    class ControlButton < SpriteStack
+      # Array of button coordinates
+      Y_COORDINATES = 360 - 21
+      COORDINATES = [[3, Y_COORDINATES], [83, Y_COORDINATES], [163, Y_COORDINATES], [243, Y_COORDINATES]]
+    end
+  end
+
   class SaveSign < SpriteStack
     SAVE_INDEX_MESSAGE = 'Pokémon RLM : Save %d'
 
