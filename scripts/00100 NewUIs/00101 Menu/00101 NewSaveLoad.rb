@@ -8,6 +8,44 @@ module GamePlay
       @frame.load('load/new_frame_save', :interface)
     end
   end
+
+  class Load < BaseCleanUpdate
+    def update
+      super
+      @icon_bar_animation&.update
+    end
+
+    def update_icon_bar_animation
+      @icon_bar_animation&.update
+    end
+
+    def create_icon_bar
+      icon_bar_layer = -10
+      icon_bar_y = 0
+      icon_bar_x = 0
+
+      @icon_bar = Sprite.new(@viewport)
+      @icon_bar.load('load/icon_bar_save', :interface)
+      @icon_bar.set_position(icon_bar_x, icon_bar_y)
+      @icon_bar.set_z(icon_bar_layer)
+      
+      ya = Yuki::Animation
+      duration = 10.5
+
+      @icon_bar_animation = ya.timed_loop_animation(duration)
+      @icon_bar_animation.play_before(ya.shift(duration, @icon_bar, 161, icon_bar_y, 0, icon_bar_y))
+      @icon_bar_animation.start
+    end
+
+    def create_graphics
+      super
+      create_base_ui
+      create_shadow
+      create_frame
+      create_signs
+      create_icon_bar
+    end
+  end
 end
 
 module UI

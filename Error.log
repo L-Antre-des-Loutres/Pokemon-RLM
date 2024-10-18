@@ -1,30 +1,16 @@
 ================================Erreur de script================================
 Message :
-wrong argument type Float (expected Integer)
+undefined method `set_position' for #<Yuki::Animation::TimedLoopAnimation:0x138413a0>
 
-Type : TypeError
-Script : 4_Systems_000_General_4_UI_Generics.rb (PSDK)
-Ligne : 143
-Date : 30/09/2024 20:44:19
+Type : NoMethodError
+Script : 00100 NewUIs/00101 Menu/00101 NewSaveLoad.rb (user)
+Ligne : 37
+Date : 01/10/2024 19:33:36
 Game Version : 256
 Logiciel : PSDK 26.30
 ===================================Backtraces===================================
-[26] : 4_Systems_000_General_4_UI_Generics.rb (PSDK) | ligne 143 initialize
-[25] : 4_Systems_000_General_4_UI_Generics.rb (PSDK) | ligne 143 new
-[24] : 4_Systems_000_General_4_UI_Generics.rb (PSDK) | ligne 143 add_text
-[23] : 4_Systems_000_General_4_UI_Generics.rb (PSDK) | ligne 771 initialize
-[22] : 4_Systems_000_General_4_UI_Generics.rb (PSDK) | ligne 190 with_font
-[21] : 4_Systems_000_General_4_UI_Generics.rb (PSDK) | ligne 771 initialize
-[20] : 4_Systems_000_General_4_UI_Generics.rb (PSDK) | ligne 744 new
-[19] : 4_Systems_000_General_4_UI_Generics.rb (PSDK) | ligne 744 create_control_button
-[18] : 4_Systems_000_General_4_UI_Generics.rb (PSDK) | ligne 744 initialize
-[17] : 4_Systems_000_General_4_UI_Generics.rb (PSDK) | ligne 744 new
-[16] : 4_Systems_000_General_4_UI_Generics.rb (PSDK) | ligne 744 create_control_button
-[15] : 4_Systems_000_General_4_UI_Generics.rb (PSDK) | ligne 713 create_graphics
-[14] : 4_Systems_000_General_4_UI_Generics.rb (PSDK) | ligne 662 initialize
-[13] : 4_Systems_106_Save_Load.rb (PSDK) | ligne 267 new
-[12] : 4_Systems_106_Save_Load.rb (PSDK) | ligne 267 create_base_ui
-[11] : 4_Systems_106_Save_Load.rb (PSDK) | ligne 261 create_graphics
+[12] : 00100 NewUIs/00101 Menu/00101 NewSaveLoad.rb (user) | ligne 37 create_icon_bar
+[11] : 00100 NewUIs/00101 Menu/00101 NewSaveLoad.rb (user) | ligne 48 create_graphics
 [10] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 221 main_begin
 [9] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 139 main
 [8] : tools/GameLoader/Z_main.rb (PSDK) | ligne 18 <top (required)>
