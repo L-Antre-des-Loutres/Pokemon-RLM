@@ -1251,6 +1251,10 @@
         {
           "klass": "TechLearnableMove",
           "move": "secret_power"
+        },
+        {
+          "klass": "EvolutionLearnableMove",
+          "move": "flamethrower"
         }
       ]
     }

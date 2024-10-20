@@ -308,7 +308,7 @@
       "height": 0.5,
       "weight": 10.5,
       "type1": "bug",
-      "type2": "__undef__",
+      "type2": "fire",
       "baseHp": 57,
       "baseAtk": 82,
       "baseDfe": 95,
@@ -356,16 +356,16 @@
         }
       ],
       "abilities": [
-        "battery",
-        "battery",
-        "battery"
+        "coque_dacier",
+        "coque_dacier",
+        "coque_dacier"
       ],
       "frontOffsetY": 0,
       "resources": {
         "icon": "737",
         "iconShiny": "",
-        "front": "737",
-        "frontShiny": "737",
+        "front": "737_1",
+        "frontShiny": "737_1",
         "back": "737",
         "backShiny": "737",
         "footprint": "",
@@ -422,13 +422,8 @@
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "spark",
+          "move": "flame_charge",
           "level": 16
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "acrobatics",
-          "level": 19
         },
         {
           "klass": "LevelLearnableMove",
@@ -589,7 +584,7 @@
         },
         {
           "klass": "EvolutionLearnableMove",
-          "move": "charge"
+          "move": "ember"
         }
       ]
     }
