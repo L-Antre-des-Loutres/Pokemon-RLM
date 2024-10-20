@@ -1,0 +1,52 @@
+{
+  "klass": "Dex",
+  "id": 3,
+  "dbSymbol": "pokedex_de_loutre_mer",
+  "startId": 0,
+  "csv": {
+    "csvFileId": 100063,
+    "csvTextIndex": 3
+  },
+  "creatures": [
+    {
+      "dbSymbol": "victini",
+      "form": 0
+    },
+    {
+      "dbSymbol": "chikorita",
+      "form": 0
+    },
+    {
+      "dbSymbol": "bayleef",
+      "form": 1
+    },
+    {
+      "dbSymbol": "meganium",
+      "form": 1
+    },
+    {
+      "dbSymbol": "fennekin",
+      "form": 0
+    },
+    {
+      "dbSymbol": "braixen",
+      "form": 1
+    },
+    {
+      "dbSymbol": "delphox",
+      "form": 1
+    },
+    {
+      "dbSymbol": "piplup",
+      "form": 0
+    },
+    {
+      "dbSymbol": "prinplup",
+      "form": 1
+    },
+    {
+      "dbSymbol": "empoleon",
+      "form": 1
+    }
+  ]
+}
