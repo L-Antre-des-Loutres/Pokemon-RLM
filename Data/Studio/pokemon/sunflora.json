@@ -974,12 +974,12 @@
       "weight": 9.2,
       "type1": "fire",
       "type2": "__undef__",
-      "baseHp": 85,
-      "baseAtk": 30,
-      "baseDfe": 30,
-      "baseSpd": 125,
-      "baseAts": 125,
-      "baseDfs": 30,
+      "baseHp": 45,
+      "baseAtk": 85,
+      "baseDfe": 85,
+      "baseSpd": 115,
+      "baseAts": 85,
+      "baseDfs": 85,
       "evHp": 0,
       "evAtk": 0,
       "evDfe": 0,
@@ -1010,9 +1010,9 @@
         }
       ],
       "abilities": [
+        "drought",
         "chlorophyll",
-        "solar_power",
-        "early_bird"
+        "contrary"
       ],
       "frontOffsetY": 0,
       "resources": {
@@ -1036,7 +1036,7 @@
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "absorb",
+          "move": "ember",
           "level": 1
         },
         {
@@ -1046,58 +1046,43 @@
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "flower_shield",
-          "level": 1
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "ingrain",
+          "move": "flame_charge",
           "level": 4
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "grass_whistle",
+          "move": "body_slam",
           "level": 7
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "mega_drain",
+          "move": "protect",
           "level": 10
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "leech_seed",
-          "level": 13
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "razor_leaf",
+          "move": "stealth_rock",
           "level": 16
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "worry_seed",
+          "move": "synthesis",
           "level": 19
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "giga_drain",
+          "move": "body_slam",
           "level": 22
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "bullet_seed",
+          "move": "submission",
           "level": 25
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "petal_dance",
+          "move": "fire_spin",
           "level": 28
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "natural_gift",
-          "level": 31
         },
         {
           "klass": "LevelLearnableMove",
@@ -1106,8 +1091,13 @@
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "double_edge",
+          "move": "superpower",
           "level": 37
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "eruption",
+          "level": 39
         },
         {
           "klass": "LevelLearnableMove",
@@ -1116,13 +1106,23 @@
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "leaf_storm",
+          "move": "focus_blast",
           "level": 43
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "petal_blizzard",
+          "move": "flare_blitz",
           "level": 50
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "fire_blast",
+          "level": 60
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "magma_storm",
+          "level": 100
         },
         {
           "klass": "TutorLearnableMove",
@@ -1163,6 +1163,10 @@
         {
           "klass": "TutorLearnableMove",
           "move": "worry_seed"
+        },
+        {
+          "klass": "TechLearnableMove",
+          "move": "cut"
         },
         {
           "klass": "TechLearnableMove",
@@ -1210,7 +1214,7 @@
         },
         {
           "klass": "TechLearnableMove",
-          "move": "sludge_bomb"
+          "move": "flamethrower"
         },
         {
           "klass": "TechLearnableMove",
@@ -1222,27 +1226,7 @@
         },
         {
           "klass": "TechLearnableMove",
-          "move": "attract"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "round"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "energy_ball"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "giga_impact"
-        },
-        {
-          "klass": "TechLearnableMove",
           "move": "swords_dance"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "grass_knot"
         },
         {
           "klass": "TechLearnableMove",
@@ -1267,10 +1251,6 @@
         {
           "klass": "TechLearnableMove",
           "move": "secret_power"
-        },
-        {
-          "klass": "TechLearnableMove",
-          "move": "cut"
         }
       ]
     }
