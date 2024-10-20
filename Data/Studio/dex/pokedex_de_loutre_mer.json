@@ -47,6 +47,234 @@
     {
       "dbSymbol": "empoleon",
       "form": 1
+    },
+    {
+      "dbSymbol": "starly",
+      "form": 0
+    },
+    {
+      "dbSymbol": "staravia",
+      "form": 0
+    },
+    {
+      "dbSymbol": "staraptor",
+      "form": 0
+    },
+    {
+      "dbSymbol": "hoothoot",
+      "form": 0
+    },
+    {
+      "dbSymbol": "noctowl",
+      "form": 0
+    },
+    {
+      "dbSymbol": "noarfigfang",
+      "form": 0
+    },
+    {
+      "dbSymbol": "taillow",
+      "form": 0
+    },
+    {
+      "dbSymbol": "swellow",
+      "form": 0
+    },
+    {
+      "dbSymbol": "patrat",
+      "form": 0
+    },
+    {
+      "dbSymbol": "watchog",
+      "form": 0
+    },
+    {
+      "dbSymbol": "bidoof",
+      "form": 0
+    },
+    {
+      "dbSymbol": "bibarel",
+      "form": 0
+    },
+    {
+      "dbSymbol": "bunnelby",
+      "form": 0
+    },
+    {
+      "dbSymbol": "diggersby",
+      "form": 0
+    },
+    {
+      "dbSymbol": "minccino",
+      "form": 0
+    },
+    {
+      "dbSymbol": "cinccino",
+      "form": 0
+    },
+    {
+      "dbSymbol": "caterpie",
+      "form": 0
+    },
+    {
+      "dbSymbol": "metapod",
+      "form": 0
+    },
+    {
+      "dbSymbol": "butterfree",
+      "form": 0
+    },
+    {
+      "dbSymbol": "weedle",
+      "form": 0
+    },
+    {
+      "dbSymbol": "kakuna",
+      "form": 0
+    },
+    {
+      "dbSymbol": "beedrill",
+      "form": 0
+    },
+    {
+      "dbSymbol": "scatterbug",
+      "form": 0
+    },
+    {
+      "dbSymbol": "spewpa",
+      "form": 0
+    },
+    {
+      "dbSymbol": "vivillon",
+      "form": 0
+    },
+    {
+      "dbSymbol": "sewaddle",
+      "form": 0
+    },
+    {
+      "dbSymbol": "swadloon",
+      "form": 0
+    },
+    {
+      "dbSymbol": "leavanny",
+      "form": 0
+    },
+    {
+      "dbSymbol": "venipede",
+      "form": 0
+    },
+    {
+      "dbSymbol": "whirlipede",
+      "form": 0
+    },
+    {
+      "dbSymbol": "scolipede",
+      "form": 0
+    },
+    {
+      "dbSymbol": "grubbin",
+      "form": 0
+    },
+    {
+      "dbSymbol": "charjabug",
+      "form": 0
+    },
+    {
+      "dbSymbol": "vikavolt",
+      "form": 0
+    },
+    {
+      "dbSymbol": "rockruff",
+      "form": 0
+    },
+    {
+      "dbSymbol": "lycanroc",
+      "form": 0
+    },
+    {
+      "dbSymbol": "riolu",
+      "form": 0
+    },
+    {
+      "dbSymbol": "lucario",
+      "form": 0
+    },
+    {
+      "dbSymbol": "absol",
+      "form": 0
+    },
+    {
+      "dbSymbol": "zangoose",
+      "form": 0
+    },
+    {
+      "dbSymbol": "seviper",
+      "form": 0
+    },
+    {
+      "dbSymbol": "purrloin",
+      "form": 0
+    },
+    {
+      "dbSymbol": "liepard",
+      "form": 0
+    },
+    {
+      "dbSymbol": "lillipup",
+      "form": 0
+    },
+    {
+      "dbSymbol": "herdier",
+      "form": 0
+    },
+    {
+      "dbSymbol": "stoutland",
+      "form": 0
+    },
+    {
+      "dbSymbol": "pansage",
+      "form": 0
+    },
+    {
+      "dbSymbol": "simisage",
+      "form": 0
+    },
+    {
+      "dbSymbol": "pansear",
+      "form": 0
+    },
+    {
+      "dbSymbol": "simisear",
+      "form": 0
+    },
+    {
+      "dbSymbol": "panpour",
+      "form": 0
+    },
+    {
+      "dbSymbol": "simipour",
+      "form": 0
+    },
+    {
+      "dbSymbol": "buizel",
+      "form": 0
+    },
+    {
+      "dbSymbol": "floatzel",
+      "form": 0
+    },
+    {
+      "dbSymbol": "oshawott",
+      "form": 0
+    },
+    {
+      "dbSymbol": "dewott",
+      "form": 0
+    },
+    {
+      "dbSymbol": "samurott",
+      "form": 0
     }
   ]
 }

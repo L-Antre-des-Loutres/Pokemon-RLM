@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 413,
+        "description": 0
+      },
       "height": 0.7,
       "weight": 21.2,
       "type1": "normal",
@@ -29,6 +33,24 @@
             {
               "type": "minLevel",
               "value": 20
+            },
+            {
+              "type": "dayNight",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "dbSymbol": "noarfigfang",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 20
+            },
+            {
+              "type": "dayNight",
+              "value": 0
             }
           ]
         }
@@ -369,11 +391,7 @@
           "klass": "BreedLearnableMove",
           "move": "wing_attack"
         }
-      ],
-      "formTextId": {
-        "name": 413,
-        "description": 0
-      }
+      ]
     }
   ]
 }

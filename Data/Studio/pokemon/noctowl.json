@@ -5,9 +5,13 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 620,
+        "description": 0
+      },
       "height": 1.6,
       "weight": 40.8,
-      "type1": "normal",
+      "type1": "psychic",
       "type2": "flying",
       "baseHp": 100,
       "baseAtk": 50,
@@ -332,11 +336,7 @@
           "klass": "TechLearnableMove",
           "move": "secret_power"
         }
-      ],
-      "formTextId": {
-        "name": 620,
-        "description": 0
-      }
+      ]
     }
   ]
 }
