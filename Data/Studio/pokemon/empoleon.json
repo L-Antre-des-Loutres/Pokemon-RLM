@@ -9,21 +9,21 @@
         "name": 255,
         "description": 0
       },
-      "height": 1.9,
-      "weight": 74.5,
+      "height": 1.7,
+      "weight": 84.5,
       "type1": "water",
       "type2": "electric",
-      "baseHp": 90,
-      "baseAtk": 110,
-      "baseDfe": 85,
-      "baseSpd": 95,
-      "baseAts": 70,
-      "baseDfs": 85,
+      "baseHp": 84,
+      "baseAtk": 86,
+      "baseDfe": 88,
+      "baseSpd": 60,
+      "baseAts": 111,
+      "baseDfs": 101,
       "evHp": 0,
-      "evAtk": 3,
+      "evAtk": 0,
       "evDfe": 0,
       "evSpd": 0,
-      "evAts": 0,
+      "evAts": 3,
       "evDfs": 0,
       "evolutions": [],
       "experienceType": 3,
@@ -49,9 +49,9 @@
         }
       ],
       "abilities": [
-        "sheer_force",
-        "swift_swim",
-        "electric_surge"
+        "torrent",
+        "competitive",
+        "defiant"
       ],
       "frontOffsetY": 0,
       "resources": {
@@ -70,78 +70,78 @@
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
+          "move": "aqua_jet",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "tackle",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "metal_claw",
+          "level": 1
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "growl",
+          "level": 4
+        },
+        {
+          "klass": "LevelLearnableMove",
           "move": "bubble",
-          "level": 1
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "aqua_jet",
-          "level": 1
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "metal_claw",
-          "level": 1
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "peck",
-          "level": 1
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "volt_switch",
-          "level": 38
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "razor_shell",
-          "level": 40
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "aqua_jet",
-          "level": 42
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "swagger",
-          "level": 44
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "thunder_wave",
-          "level": 48
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "metal_claw",
-          "level": 52
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "liquidation",
-          "level": 55
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "rain_dance",
-          "level": 58
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "thrash",
-          "level": 62
-        },
-        {
-          "klass": "LevelLearnableMove",
-          "move": "close_combat",
-          "level": 66
+          "level": 8
         },
         {
           "klass": "LevelLearnableMove",
           "move": "swords_dance",
-          "level": 70
+          "level": 11
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "peck",
+          "level": 15
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "bubble_beam",
+          "level": 19
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "swagger",
+          "level": 24
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "fury_attack",
+          "level": 28
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "brine",
+          "level": 33
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "whirlpool",
+          "level": 39
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "mist",
+          "level": 46
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "drill_peck",
+          "level": 52
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "hydro_pump",
+          "level": 59
         },
         {
           "klass": "TutorLearnableMove",
