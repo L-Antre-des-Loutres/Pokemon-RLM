@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 904,
+        "description": 0
+      },
       "height": 0.3,
       "weight": 2.3,
       "type1": "normal",
@@ -29,6 +33,16 @@
             {
               "type": "minLevel",
               "value": 22
+            }
+          ]
+        },
+        {
+          "dbSymbol": "swellow",
+          "form": 1,
+          "conditions": [
+            {
+              "type": "stone",
+              "value": "thunder_stone"
             }
           ]
         }
@@ -316,11 +330,7 @@
           "klass": "BreedLearnableMove",
           "move": "whirlwind"
         }
-      ],
-      "formTextId": {
-        "name": 904,
-        "description": 0
-      }
+      ]
     }
   ]
 }
