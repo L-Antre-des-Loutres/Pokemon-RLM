@@ -25,7 +25,17 @@
       "evSpd": 0,
       "evAts": 1,
       "evDfs": 1,
-      "evolutions": [],
+      "evolutions": [
+        {
+          "form": 30,
+          "conditions": [
+            {
+              "type": "gemme",
+              "value": "guard_spec"
+            }
+          ]
+        }
+      ],
       "experienceType": 2,
       "baseExperience": 261,
       "baseLoyalty": 140,
@@ -411,12 +421,12 @@
       "weight": 0.3,
       "type1": "psychic",
       "type2": "__undef__",
-      "baseHp": 105,
-      "baseAtk": 105,
-      "baseDfe": 105,
-      "baseSpd": 150,
-      "baseAts": 110,
-      "baseDfs": 105,
+      "baseHp": 80,
+      "baseAtk": 125,
+      "baseDfe": 100,
+      "baseSpd": 145,
+      "baseAts": 130,
+      "baseDfs": 100,
       "evHp": 0,
       "evAtk": 1,
       "evDfe": 0,

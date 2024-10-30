@@ -432,10 +432,10 @@
       "type2": "__undef__",
       "baseHp": 75,
       "baseAtk": 170,
-      "baseDfe": 70,
-      "baseSpd": 125,
+      "baseDfe": 75,
+      "baseSpd": 115,
       "baseAts": 170,
-      "baseDfs": 70,
+      "baseDfs": 75,
       "evHp": 0,
       "evAtk": 2,
       "evDfe": 0,
@@ -466,9 +466,9 @@
         }
       ],
       "abilities": [
-        "levitate",
-        "levitate",
-        "levitate"
+        "psychic_surge",
+        "psychic_surge",
+        "psychic_surge"
       ],
       "frontOffsetY": 0,
       "resources": {
