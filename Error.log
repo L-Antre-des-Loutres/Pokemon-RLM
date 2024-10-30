@@ -1,0 +1,42 @@
+================================Erreur de script================================
+Message :
+undefined method `base_atk=' for <PB:Spinda,0,0 lv=60 hp=1 st=0>:PFM::PokemonBattler
+
+Type : NoMethodError
+Script : 00101 Battle Mechs/00101 Abilities_Effects.rb (user)
+Ligne : 30
+Date : 30/10/2024 22:15:44
+Game Version : 256
+Logiciel : PSDK 26.32
+===================================Backtraces===================================
+[29] : 00101 Battle Mechs/00101 Abilities_Effects.rb (user) | ligne 30 on_switch_event
+[28] : 5_Battle_04_Logic.rb (PSDK) | ligne 2119 <class:Logic>
+[27] : 5_Battle_04_Logic.rb (PSDK) | ligne 707 each_effects
+[26] : 5_Battle_03_PokemonBattler.rb (PSDK) | ligne 1058 evaluate_effects
+[25] : 5_Battle_04_Logic.rb (PSDK) | ligne 714 each_effects
+[24] : 5_Battle_04_Logic.rb (PSDK) | ligne 714 each
+[23] : 5_Battle_04_Logic.rb (PSDK) | ligne 714 each_effects
+[22] : 5_Battle_04_Logic.rb (PSDK) | ligne 2117 <class:Logic>
+[21] : 5_Battle_04_Logic.rb (PSDK) | ligne 2065 register_switch_event_hook
+[20] : 000_a_root.rb (PSDK) | ligne 216 instance_exec
+[19] : 000_a_root.rb (PSDK) | ligne 216 exec_hooks
+[18] : 000_a_root.rb (PSDK) | ligne 214 each
+[17] : 000_a_root.rb (PSDK) | ligne 214 exec_hooks
+[16] : 5_Battle_04_Logic.rb (PSDK) | ligne 2019 execute_switch_events
+[15] : 5_Battle_01_Scene.rb (PSDK) | ligne 123 show_enter_event
+[14] : 5_Battle_01_Scene.rb (PSDK) | ligne 122 each
+[13] : 5_Battle_01_Scene.rb (PSDK) | ligne 122 show_enter_event
+[12] : 5_Battle_01_Scene.rb (PSDK) | ligne 66 next_update_process
+[11] : 5_Battle_01_Scene.rb (PSDK) | ligne 58 update
+[10] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 229 main_process
+[9] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 140 main
+[8] : tools/GameLoader/Z_main.rb (PSDK) | ligne 18 <top (required)>
+[7] : tools/GameLoader/3_load_extensions.rb (PSDK) | ligne 46 rgss_main
+[6] : tools/GameLoader/50_load_game_uncompiled.rb (PSDK) | ligne 48 <top (required)>
+[5] : ScriptLoad.rb (PSDK) | ligne 198 require
+[4] : ScriptLoad.rb (PSDK) | ligne 198 load_tool
+[3] : tools/GameLoader/Z_load_uncompiled.rb (PSDK) | ligne 17 <top (required)>
+[2] : ScriptLoad.rb (PSDK) | ligne 198 require
+[1] : ScriptLoad.rb (PSDK) | ligne 198 load_tool
+[0] : Game.rb (RMXP) | ligne 11 <main>
+===================================Fin du log===================================
