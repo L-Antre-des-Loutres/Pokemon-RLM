@@ -1,7 +1,9 @@
 # Pokémon : Royaume de Loutre Mer (Pkmn:RLM)
 
 *Jeu de mot, "Loutre Mer" sonne comme "L'autre mer"*
-<br><br>
+
+> [!CAUTION]
+> Pokémon : Royaume de Loutre Mer, ou Pokémon RLM, n'est pas un jeu officiel et ne prétend pas l'être. Ce jeu est fait par des fans, pour des fans, dans un but non lucratif.
 
 # Table des Matières
 
@@ -13,7 +15,9 @@
 
 # Introduction
 
-Bientot™
+Un fangame Pokémon modeste, se déroulant sur l'Île de Loutre Mer...
+- [x] Pleins de choses rigolotes
+- [ ] Strike par Nintendo (Bientôt TQT) 
 
 # Technologies Utilisées
 
