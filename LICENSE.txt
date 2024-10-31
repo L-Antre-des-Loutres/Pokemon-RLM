@@ -1,0 +1,20 @@
+Licence de Projet Fangame - Non Commercial
+
+Introduction
+Ce projet est un fangame inspiré de la franchise Pokémon, destiné uniquement à un usage non commercial. Ce fangame a été créé par des fans, pour des fans, sans aucune affiliation, autorisation, ou approbation de Nintendo, Game Freak, ou de toute autre entité détenant des droits sur Pokémon.
+
+Conditions d’Utilisation
+1. Non-commercial : Le jeu est exclusivement à des fins de divertissement personnel. Aucune distribution à but lucratif, ni vente, ni utilisation commerciale n'est autorisée.
+
+2. Respect de la Propriété Intellectuelle : Ce projet utilise des personnages, des images, des sons, et des éléments issus de la franchise Pokémon, propriété exclusive de Nintendo, Game Freak, et de leurs partenaires. Tous les droits sur Pokémon appartiennent à leurs détenteurs respectifs. Ce fangame ne cherche en aucun cas à remplacer, concurrencer, ou nuire à la marque Pokémon.
+
+3. Distribution Restreinte : Ce projet est destiné à être partagé uniquement avec un cercle restreint de fans de Pokémon et ne doit pas être distribué publiquement ou de manière massive. Les utilisateurs acceptent de ne pas republier, relier, ou partager le projet à grande échelle.
+
+4. Aucune Garantie : Ce projet est fourni "tel quel", sans aucune garantie, expresse ou implicite. Les créateurs du projet ne seront pas tenus responsables pour tout dommage, perte de données, ou autre conséquence découlant de l’utilisation de ce projet.
+
+5. Consentement à Retrait : En utilisant ou en distribuant ce projet, les utilisateurs reconnaissent et acceptent que les détenteurs des droits de Pokémon, y compris Nintendo et Game Freak, peuvent demander l'arrêt ou le retrait de ce projet à tout moment. Les créateurs du projet doivent se conformer immédiatement à toute demande de retrait de la part des détenteurs de droits.
+
+Avis de Non-responsabilité
+Ce projet est un hommage de fans à l'univers de Pokémon et ne prétend pas en être un produit officiel. Pokémon et tous les éléments associés sont des marques déposées et propriétés de Nintendo, Game Freak, et d'autres détenteurs de droits.
+
+Fin de Licence
