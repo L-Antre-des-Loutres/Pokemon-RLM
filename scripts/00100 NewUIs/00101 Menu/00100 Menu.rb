@@ -4,7 +4,6 @@ module GamePlay
   end
 end
 
-
 module UI
   # Button that is shown in the main menu
   class PSDKMenuButtonBase < SpriteStack

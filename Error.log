@@ -1,18 +1,43 @@
 ================================Erreur de script================================
 Message :
-undefined method `set_position' for #<Yuki::Animation::TimedLoopAnimation:0x138413a0>
+undefined method `add_sprite' for #<Battle::Visual:00000288>
 
 Type : NoMethodError
-Script : 00100 NewUIs/00101 Menu/00101 NewSaveLoad.rb (user)
-Ligne : 37
-Date : 01/10/2024 19:33:36
+Script : 00100 NewUIs/00102 Battle/00100 Scene.rb (user)
+Ligne : 67
+Date : 09/11/2024 18:35:39
 Game Version : 256
-Logiciel : PSDK 26.30
+Logiciel : PSDK 26.32
+Script used by eval command : 
+call_battle_wild(:rattata, 30)
+
+
 ===================================Backtraces===================================
-[12] : 00100 NewUIs/00101 Menu/00101 NewSaveLoad.rb (user) | ligne 37 create_icon_bar
-[11] : 00100 NewUIs/00101 Menu/00101 NewSaveLoad.rb (user) | ligne 48 create_graphics
-[10] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 221 main_begin
-[9] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 139 main
+[33] : 00100 NewUIs/00102 Battle/00100 Scene.rb (user) | ligne 67 create_button_background
+[32] : 00100 NewUIs/00102 Battle/00100 Scene.rb (user) | ligne 50 create_graphics
+[31] : 5_Battle_02_Visual.rb (PSDK) | ligne 29 initialize
+[30] : 00100 NewUIs/00102 Battle/00200 BattleCamera3D.rb (user) | ligne 7 new
+[29] : 00100 NewUIs/00102 Battle/00200 BattleCamera3D.rb (user) | ligne 7 create_visual
+[28] : 5_Battle_01_Scene.rb (PSDK) | ligne 34 initialize
+[27] : 4_Systems_999_Wild.rb (PSDK) | ligne 120 new
+[26] : 4_Systems_999_Wild.rb (PSDK) | ligne 120 start_battle
+[25] : 2_PSDK_Event_Interpreter.rb (PSDK) | ligne 343 call_battle_wild
+[24] : (eval) (RMXP) | ligne 2 eval_X4
+[23] : 1_RMXP_Scripts.rb (PSDK) | ligne 2107 eval_script
+[22] : 1_RMXP_Scripts.rb (PSDK) | ligne 2099 command_355
+[21] : 1_RMXP_Scripts.rb (PSDK) | ligne 1083 execute_command
+[20] : 1_RMXP_Scripts.rb (PSDK) | ligne 963 update
+[19] : 1_RMXP_Scripts.rb (PSDK) | ligne 944 loop
+[18] : 1_RMXP_Scripts.rb (PSDK) | ligne 944 update
+[17] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9069 auto_transfert_update
+[16] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9067 loop
+[15] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9067 auto_transfert_update
+[14] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 8942 update
+[13] : 0_Dependencies.rb (PSDK) | ligne 1326 times
+[12] : 0_Dependencies.rb (PSDK) | ligne 1326 run
+[11] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 8942 update
+[10] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 229 main_process
+[9] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 140 main
 [8] : tools/GameLoader/Z_main.rb (PSDK) | ligne 18 <top (required)>
 [7] : tools/GameLoader/3_load_extensions.rb (PSDK) | ligne 46 rgss_main
 [6] : tools/GameLoader/50_load_game_uncompiled.rb (PSDK) | ligne 48 <top (required)>
