@@ -1,5 +1,10 @@
 [
   {
+    "klass": "TextInfo",
+    "fileId": 0,
+    "textId": 102
+  },
+  {
     "fileId": 10,
     "textId": 0,
     "klass": "TextInfo"
@@ -508,10 +513,5 @@
     "fileId": 9009,
     "textId": 96,
     "klass": "TextInfo"
-  },
-  {
-    "klass": "TextInfo",
-    "fileId": 0,
-    "textId": 102
   }
 ]
