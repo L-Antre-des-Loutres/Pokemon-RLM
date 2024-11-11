@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 383,
+        "description": 0
+      },
       "height": 0.4,
       "weight": 4.4,
       "type1": "bug",
@@ -29,6 +33,16 @@
             {
               "type": "minLevel",
               "value": 20
+            }
+          ]
+        },
+        {
+          "dbSymbol": "charjabug",
+          "form": 1,
+          "conditions": [
+            {
+              "type": "stone",
+              "value": "fire_stone"
             }
           ]
         }
@@ -269,11 +283,7 @@
           "klass": "BreedLearnableMove",
           "move": "mud_shot"
         }
-      ],
-      "formTextId": {
-        "name": 383,
-        "description": 0
-      }
+      ]
     }
   ]
 }

@@ -5,10 +5,14 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 835,
+        "description": 0
+      },
       "height": 1,
       "weight": 28,
       "type1": "fire",
-      "type2": "__undef__",
+      "type2": "psychic",
       "baseHp": 75,
       "baseAtk": 98,
       "baseDfe": 63,
@@ -320,11 +324,7 @@
           "klass": "TechLearnableMove",
           "move": "rock_smash"
         }
-      ],
-      "formTextId": {
-        "name": 835,
-        "description": 0
-      }
+      ]
     }
   ]
 }

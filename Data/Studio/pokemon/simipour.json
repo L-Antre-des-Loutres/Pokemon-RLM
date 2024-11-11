@@ -5,10 +5,14 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 833,
+        "description": 0
+      },
       "height": 1,
       "weight": 29,
       "type1": "water",
-      "type2": "__undef__",
+      "type2": "fairy",
       "baseHp": 75,
       "baseAtk": 98,
       "baseDfe": 63,
@@ -332,11 +336,7 @@
           "klass": "TechLearnableMove",
           "move": "whirlpool"
         }
-      ],
-      "formTextId": {
-        "name": 833,
-        "description": 0
-      }
+      ]
     }
   ]
 }

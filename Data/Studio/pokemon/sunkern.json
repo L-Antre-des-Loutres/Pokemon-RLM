@@ -5,6 +5,10 @@
   "forms": [
     {
       "form": 0,
+      "formTextId": {
+        "name": 891,
+        "description": 0
+      },
       "height": 0.3,
       "weight": 1.8,
       "type1": "grass",
@@ -29,6 +33,36 @@
             {
               "type": "stone",
               "value": "sun_stone"
+            }
+          ]
+        },
+        {
+          "dbSymbol": "sunflora",
+          "form": 1,
+          "conditions": [
+            {
+              "type": "stone",
+              "value": "shiny_stone"
+            }
+          ]
+        },
+        {
+          "dbSymbol": "sunflora",
+          "form": 2,
+          "conditions": [
+            {
+              "type": "stone",
+              "value": "water_stone"
+            }
+          ]
+        },
+        {
+          "dbSymbol": "sunflora",
+          "form": 3,
+          "conditions": [
+            {
+              "type": "stone",
+              "value": "fire_stone"
             }
           ]
         }
@@ -347,11 +381,7 @@
           "klass": "BreedLearnableMove",
           "move": "sweet_scent"
         }
-      ],
-      "formTextId": {
-        "name": 891,
-        "description": 0
-      }
+      ]
     }
   ]
 }
