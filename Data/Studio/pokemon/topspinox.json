@@ -54,6 +54,21 @@
         "mold_breaker"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "",
+        "iconShiny": "",
+        "front": "topspinox",
+        "frontF": "1026",
+        "frontShiny": "",
+        "frontShinyF": "1026",
+        "back": "",
+        "backShiny": "",
+        "footprint": "",
+        "character": "",
+        "characterShiny": "",
+        "cry": "",
+        "hasFemale": true
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -270,22 +285,7 @@
           "klass": "TechLearnableMove",
           "move": "cut"
         }
-      ],
-      "resources": {
-        "icon": "",
-        "iconShiny": "",
-        "front": "topspinox",
-        "frontShiny": "",
-        "back": "",
-        "backShiny": "",
-        "footprint": "",
-        "character": "",
-        "characterShiny": "",
-        "cry": "",
-        "hasFemale": true,
-        "frontF": "1026",
-        "frontShinyF": "1026"
-      }
+      ]
     }
   ]
 }
