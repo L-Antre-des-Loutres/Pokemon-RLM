@@ -297,10 +297,10 @@
       ]
     },
     {
-      "form": 1,
+      "form": 2,
       "formTextId": {
-        "name": 1104,
-        "description": 295
+        "name": 1323,
+        "description": 291
       },
       "height": 0.7,
       "weight": 19.8,
@@ -351,7 +351,7 @@
         "icon": "277",
         "iconShiny": "",
         "front": "277_01",
-        "frontShiny": "277",
+        "frontShiny": "277_01",
         "back": "277",
         "backShiny": "277",
         "footprint": "277",
