@@ -504,8 +504,8 @@
         }
       ],
       "abilities": [
+        "psychoprio",
         "magic_guard",
-        "no_guard",
         "misty_surge"
       ],
       "frontOffsetY": 0,

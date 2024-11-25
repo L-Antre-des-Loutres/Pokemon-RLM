@@ -431,9 +431,9 @@
         }
       ],
       "abilities": [
-        "sheer_force",
+        "colere_divine",
         "swift_swim",
-        "electric_surge"
+        "sheer_force"
       ],
       "frontOffsetY": 0,
       "resources": {
