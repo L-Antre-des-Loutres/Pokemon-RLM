@@ -120,7 +120,54 @@ module UI
 
             # Coordinate of the search bar
             COORDINATES = 3, 220
+        end
+        
+            # Animation of the tcard banner
+            def update
+                super
+                @icon_bar_animation&.update
+            end
+        
+            def update_icon_bar_animation
+                @icon_bar_animation&.update
+            end
+        
+            def create_icon_bar
+                icon_bar_layer = -10
+                icon_bar_y = 0
+                icon_bar_x = 0
+        
+                @icon_bar = Sprite.new(@viewport)
+                @icon_bar.load('bag/icon_bar_bag', :interface)
+                @icon_bar.set_position(icon_bar_x, icon_bar_y)
+                @icon_bar.set_z(icon_bar_layer)
+                
+                ya = Yuki::Animation
+                duration = 10.5
+        
+                @icon_bar_animation = ya.timed_loop_animation(duration)
+                @icon_bar_animation.play_before(ya.shift(duration, @icon_bar, 161, icon_bar_y, 0, icon_bar_y))
+                @icon_bar_animation.start
+            end
 
+            def create_graphics
+                create_viewport
+                create_base_ui
+                create_pocket_ui
+                create_scroll_bar
+                create_bag_sprite
+                create_item_list
+                create_arrow
+                create_info
+                create_shadow
+                create_search
+                create_frame
+                create_icon_bar
+                Graphics.sort_z
+            end
+    end
+    module GamePlay
+        class Bag
         end
     end
 end

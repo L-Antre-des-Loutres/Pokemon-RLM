@@ -1,14 +1,17 @@
 ================================Erreur de script================================
 Message :
-C:/Users/perod/Documents/Bureau/projet-pokemon/Pokemon-RLM/scripts/00100 NewUIs/00101 Menu/00102 Trainer.rb:44: syntax error, unexpected end-of-input, expecting `end'
+uninitialized constant UI::GamePlay::BaseCleanUpdate
 
-Type : SyntaxError
-Script : ScriptLoad.rb (PSDK)
-Ligne : 94
-Date : 01/02/2025 23:53:20
+Type : NameError
+Script : 00100 NewUIs/00101 Menu/00103 Bag.rb (user)
+Ligne : 126
+Date : 02/02/2025 23:20:24
 Game Version : 256
 Logiciel : PSDK 26.36
 ===================================Backtraces===================================
+[21] : 00100 NewUIs/00101 Menu/00103 Bag.rb (user) | ligne 126 <module:GamePlay>
+[20] : 00100 NewUIs/00101 Menu/00103 Bag.rb (user) | ligne 125 <module:UI>
+[19] : 00100 NewUIs/00101 Menu/00103 Bag.rb (user) | ligne 1 <top (required)>
 [18] : ScriptLoad.rb (PSDK) | ligne 94 require
 [17] : ScriptLoad.rb (PSDK) | ligne 94 load_scripts
 [16] : ScriptLoad.rb (PSDK) | ligne 91 each
