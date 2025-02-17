@@ -1,99 +1,275 @@
 {
-    "activeFile": "",
+    "activeFile": "Maps/RLM-TestMap.tmx",
+    "automapping.whileDrawing": true,
     "expandedProjectPaths": [
+        "Maps",
+        "Tilesets",
+        "."
     ],
     "fileStates": {
         "Maps/000 Blank_Template.tmx": {
             "scale": 0.7124999999999999,
             "selectedLayer": 14,
             "viewCenter": {
-                "x": 585.9649122807018,
-                "y": 512.2807017543861
+                "x": 541.7543859649123,
+                "y": 511.57894736842104
             }
         },
         "Maps/001 TitleScreenAnimation.tmx": {
             "scale": 0.633642578125,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 512.1183632580719,
-                "y": 511.32927487092536
+                "x": 511.3292748709254,
+                "y": 512.1183632580719
             }
         },
         "Maps/002 Intro.tmx": {
             "scale": 0.633642578125,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 512.1183632580719,
-                "y": 511.32927487092536
+                "x": 511.3292748709254,
+                "y": 512.1183632580719
             }
         },
         "Maps/006 Beach.tmx": {
             "scale": 0.2611572265625,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1024.2871833224267,
-                "y": 1022.3726278395812
+                "x": 1022.3726278395812,
+                "y": 1024.287183322427
             }
         },
         "Maps/011 RocketHQ.tmx": {
             "scale": 0.2249755859375,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1024.5556158437332,
-                "y": 1022.3331524688008
+                "x": 1022.3331524688009,
+                "y": 1024.5556158437332
             }
         },
         "Maps/013 Labo.tmx": {
             "scale": 0.1887939453125,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1024.926936505884,
-                "y": 1022.2785464890728
+                "x": 1022.2785464890728,
+                "y": 1024.9269365058838
             }
         },
         "Maps/015 PhotoStudio.tmx": {
             "scale": 0.14658203125,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1023.3177881412392,
-                "y": 1023.3177881412394
+                "x": 1023.3177881412391,
+                "y": 1026.7288474350432
             }
         },
         "Maps/020 Route.tmx": {
             "scale": 0.19544270833333333,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 767.4883411059294,
-                "y": 1534.9766822118586
+                "x": 767.4883411059293,
+                "y": 1537.5349766822117
             }
         },
+        "Maps/DPPt Nature.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
         "Maps/DPPt_bld_rules.tmx": {
-            "scale": 0.0625,
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1024,
+                "y": 768.5
+            }
+        },
+        "Maps/RLM-TestMap.tmx": {
+            "scale": 0.5714843749999999,
+            "selectedLayer": 10,
+            "viewCenter": {
+                "x": 988.6534518113467,
+                "y": 356.9651401230348
+            }
+        },
+        "Maps/ext-template.tmx": {
+            "scale": 0.5714843749999999,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1064,
-                "y": 752
+                "x": 1471.6062884483938,
+                "y": 789.1729323308272
+            }
+        },
+        "Maps/passages.tsx": {
+            "scaleInDock": 1
+        },
+        "Maps/rules_DP_trees.tmx": {
+            "expandedGroupLayers": [
+                28,
+                27
+            ],
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -768,
+                "y": -257
+            }
+        },
+        "Maps/rules_TECH_assets.tmx": {
+            "scale": 1.08173828125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 512.1386657037103,
+                "y": 255.6071138394872
             }
         },
         "Maps/rules_TECH_buildings.tmx": {
             "scale": 0.08376116071428572,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": -764.077281812125,
-                "y": 0
+                "x": -764.0772818121252,
+                "y": -5.969353764156949
+            }
+        },
+        "Maps/rules_TECH_nature.tmx": {
+            "scale": 1.08173828125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 512.1386657037103,
+                "y": 255.60711383948723
+            }
+        },
+        "Maps/rules_TECH_trees.tmx": {
+            "scale": 0.7211588541666667,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 768.2079985555656,
+                "y": 512.3697752098943
+            }
+        },
+        "Maps/rules_tree.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1600,
+                "y": 1600.6666666666665
             }
         },
         "Tilesets/Délimitations.tsx": {
             "dynamicWrapping": true,
             "scaleInDock": 1
         },
+        "Tilesets/PLAT Animations.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilesets/PLAT borders.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilesets/PLAT buildings.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilesets/PLAT mounts.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilesets/PLAT nature.tsx": {
+            "scaleInDock": 0.5
+        },
+        "Tilesets/PLAT props.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.75
+        },
+        "Tilesets/TECH-Animations.tsx": {
+            "scaleInDock": 1
+        },
+        "Tilesets/TECH-Assets.tsx": {
+            "scaleInDock": 1
+        },
         "Tilesets/TECH-Buildings.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "Tilesets/TECH-HQ.tsx": {
+            "scaleInDock": 1
+        },
+        "Tilesets/TECH-Misc..tsx": {
+            "scaleInDock": 1
+        },
+        "Tilesets/TECH-Mounts.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "Tilesets/TECH-Nature.tsx": {
+            "scaleInDock": 1
+        },
+        "Tilesets/TECH-Photo.tsx": {
+            "scaleInDock": 1
+        },
+        "Tilesets/TECH-borders.tsx": {
+            "scaleInDock": 1
+        },
+        "Tilesets/TECH_Lab.tsx": {
+            "scaleInDock": 1
+        },
+        "Tilesets/borders.tsx": {
             "dynamicWrapping": false
+        },
+        "Tilesets/passages.tsx": {
+            "scaleInDock": 1
+        },
+        "Tilesets/systemtags.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tilesets/tileset-diamant-perle.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
         }
     },
+    "last.exportedFilePath": "C:/Users/Corentin.cottereau20/Documents/Stuff/Pokemon-RLM/Data/Tiled/Maps/automapping",
+    "last.externalTilesetPath": "C:/Users/Corentin.cottereau20/Documents/Stuff/Pokemon-RLM/Data/Tiled/Tilesets",
+    "map.lastUsedExportFilter": "Tous les Fichiers (*)",
     "openFiles": [
+        "Maps/000 Blank_Template.tmx",
+        "Maps/001 TitleScreenAnimation.tmx",
+        "Maps/002 Intro.tmx",
+        "Maps/006 Beach.tmx",
+        "Maps/011 RocketHQ.tmx",
+        "Maps/013 Labo.tmx",
+        "Maps/015 PhotoStudio.tmx",
+        "Maps/020 Route.tmx",
+        "Maps/rules_TECH_buildings.tmx",
+        "Maps/DPPt_bld_rules.tmx",
+        "Tilesets/PLAT borders.tsx",
+        "Tilesets/PLAT buildings.tsx",
+        "Tilesets/PLAT mounts.tsx",
+        "Tilesets/PLAT Animations.tsx",
+        "Tilesets/PLAT props.tsx",
+        "Tilesets/systemtags.tsx",
+        "Maps/ext-template.tmx",
+        "Maps/rules_DP_trees.tmx",
+        "Maps/rules_TECH_assets.tmx",
+        "Maps/rules_TECH_nature.tmx",
+        "Maps/rules_TECH_trees.tmx",
+        "Maps/rules_tree.tmx",
+        "Maps/RLM-TestMap.tmx"
     ],
     "project": "RLM.tiled-project",
     "recentFiles": [
+        "Maps/000 Blank_Template.tmx",
+        "Maps/001 TitleScreenAnimation.tmx",
+        "Maps/002 Intro.tmx",
+        "Maps/006 Beach.tmx",
+        "Maps/011 RocketHQ.tmx",
+        "Maps/013 Labo.tmx",
+        "Maps/015 PhotoStudio.tmx",
+        "Maps/020 Route.tmx",
+        "Maps/rules_TECH_buildings.tmx",
+        "Maps/DPPt_bld_rules.tmx",
+        "Tilesets/PLAT borders.tsx",
+        "Tilesets/PLAT buildings.tsx"
     ]
 }
