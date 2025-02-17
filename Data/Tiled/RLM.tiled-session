@@ -172,6 +172,7 @@
             "scaleInEditor": 1
         },
         "Tilesets/PLAT mounts.tsx": {
+            "dynamicWrapping": false,
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
@@ -215,7 +216,8 @@
             "scaleInDock": 1
         },
         "Tilesets/borders.tsx": {
-            "dynamicWrapping": false
+            "dynamicWrapping": false,
+            "scaleInDock": 1
         },
         "Tilesets/passages.tsx": {
             "scaleInDock": 1
@@ -229,7 +231,7 @@
             "scaleInDock": 1
         }
     },
-    "last.exportedFilePath": "C:/Users/Corentin.cottereau20/Documents/Stuff/Pokemon-RLM/Data/Tiled/Maps/automapping",
+    "last.exportedFilePath": "C:/Users/Corentin.cottereau20/Documents/Stuff/Pokemon-RLM/Data/Tiled/Maps",
     "last.externalTilesetPath": "C:/Users/Corentin.cottereau20/Documents/Stuff/Pokemon-RLM/Data/Tiled/Tilesets",
     "map.lastUsedExportFilter": "Tous les Fichiers (*)",
     "openFiles": [
