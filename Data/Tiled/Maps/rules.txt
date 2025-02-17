@@ -1,4 +1,2 @@
-rules_TECH_trees.tmx
-rules_TECH_buildings.tmx
-rules_TECH_assets.tmx
-rules_TECH_nature.tmx
+rules_tree.tmx
+DPPt_bld_rules.tmx
