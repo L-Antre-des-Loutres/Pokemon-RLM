@@ -49,15 +49,19 @@
       "form": 2
     },
     {
-      "dbSymbol": "starly",
+      "dbSymbol": "taillow",
       "form": 0
     },
     {
-      "dbSymbol": "staravia",
+      "dbSymbol": "swellow",
       "form": 0
     },
     {
-      "dbSymbol": "staraptor",
+      "dbSymbol": "apheos",
+      "form": 0
+    },
+    {
+      "dbSymbol": "aphelis",
       "form": 0
     },
     {
@@ -69,11 +73,15 @@
       "form": 0
     },
     {
-      "dbSymbol": "taillow",
+      "dbSymbol": "starly",
       "form": 0
     },
     {
-      "dbSymbol": "swellow",
+      "dbSymbol": "staravia",
+      "form": 0
+    },
+    {
+      "dbSymbol": "staraptor",
       "form": 0
     },
     {
