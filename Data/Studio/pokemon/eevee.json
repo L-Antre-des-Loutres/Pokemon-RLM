@@ -121,6 +121,16 @@
               "value": "elv_nymphali"
             }
           ]
+        },
+        {
+          "dbSymbol": "dracoli",
+          "form": 0,
+          "conditions": [
+            {
+              "type": "minLevel",
+              "value": 50
+            }
+          ]
         }
       ],
       "experienceType": 1,

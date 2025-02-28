@@ -202,15 +202,16 @@
     }
   ],
   "resources": {
-    "sprite": "Picnicker",
+    "sprite": "pixil-frame-0 (5)",
     "artworkFull": "",
     "artworkSmall": "",
     "character": "",
     "musics": {
-      "bgm": "",
-      "defeat": "",
       "encounter": "",
-      "victory": ""
+      "victory": "",
+      "defeat": "",
+      "bgm": ""
     }
-  }
+  },
+  "additionalDialogs": []
 }

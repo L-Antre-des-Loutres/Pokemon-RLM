@@ -1,0 +1,37 @@
+{
+  "klass": "Type",
+  "id": 19,
+  "dbSymbol": "aether",
+  "color": "#a8feff",
+  "textId": 18,
+  "damageTo": [
+    {
+      "defensiveType": "water",
+      "factor": 2
+    },
+    {
+      "defensiveType": "flying",
+      "factor": 2
+    },
+    {
+      "defensiveType": "ground",
+      "factor": 2
+    },
+    {
+      "defensiveType": "aether",
+      "factor": 0.5
+    },
+    {
+      "defensiveType": "dark",
+      "factor": 0.5
+    },
+    {
+      "defensiveType": "psychic",
+      "factor": 0.5
+    },
+    {
+      "defensiveType": "fire",
+      "factor": 2
+    }
+  ]
+}

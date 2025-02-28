@@ -2,6 +2,7 @@
 Game.rb
 latest.json
 psdk.bat
+Error.log
 lib/
 ruby_builtin_dlls/
 pokemonsdk/
@@ -28,3 +29,6 @@ Data/Text/Dialogs/*.dat
 Data/Studio/psdk.dat
 PSDK_Technical_Demo_*.zip
 pokemon-rlm.code-workspace
+scripts/psdk_scripts/
+scripts/psdk_scripts
+Error.log

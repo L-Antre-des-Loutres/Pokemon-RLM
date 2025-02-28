@@ -18,11 +18,11 @@
     },
     {
       "dbSymbol": "bayleef",
-      "form": 1
+      "form": 2
     },
     {
       "dbSymbol": "meganium",
-      "form": 1
+      "form": 2
     },
     {
       "dbSymbol": "fennekin",
@@ -30,11 +30,11 @@
     },
     {
       "dbSymbol": "braixen",
-      "form": 1
+      "form": 2
     },
     {
       "dbSymbol": "delphox",
-      "form": 1
+      "form": 2
     },
     {
       "dbSymbol": "piplup",
@@ -42,22 +42,26 @@
     },
     {
       "dbSymbol": "prinplup",
-      "form": 1
+      "form": 2
     },
     {
       "dbSymbol": "empoleon",
-      "form": 1
+      "form": 2
     },
     {
-      "dbSymbol": "starly",
+      "dbSymbol": "taillow",
       "form": 0
     },
     {
-      "dbSymbol": "staravia",
+      "dbSymbol": "swellow",
       "form": 0
     },
     {
-      "dbSymbol": "staraptor",
+      "dbSymbol": "apheos",
+      "form": 0
+    },
+    {
+      "dbSymbol": "aphelis",
       "form": 0
     },
     {
@@ -69,15 +73,15 @@
       "form": 0
     },
     {
-      "dbSymbol": "noarfigfang",
+      "dbSymbol": "starly",
       "form": 0
     },
     {
-      "dbSymbol": "taillow",
+      "dbSymbol": "staravia",
       "form": 0
     },
     {
-      "dbSymbol": "swellow",
+      "dbSymbol": "staraptor",
       "form": 0
     },
     {
@@ -110,18 +114,6 @@
     },
     {
       "dbSymbol": "cinccino",
-      "form": 0
-    },
-    {
-      "dbSymbol": "caterpie",
-      "form": 0
-    },
-    {
-      "dbSymbol": "metapod",
-      "form": 0
-    },
-    {
-      "dbSymbol": "butterfree",
       "form": 0
     },
     {
