@@ -1,23 +1,16 @@
 {
   "klass": "Move",
-  "id": 153,
-  "dbSymbol": "explosion",
-  "mapUse": 0,
-  "battleEngineMethod": "s_explosion",
-  "type": "normal",
-  "power": 250,
-  "accuracy": 100,
-  "pp": 5,
+  "id": 731,
+  "dbSymbol": "frappe_astrale",
+  "type": "aether",
   "category": "physical",
-  "movecriticalRate": 1,
-  "priority": 0,
-  "isAuthentic": true,
+  "isAuthentic": false,
   "isBallistics": false,
   "isBite": false,
-  "isBlocable": false,
+  "isBlocable": true,
   "isCharge": false,
   "isDance": false,
-  "isDirect": false,
+  "isDirect": true,
   "isDistance": false,
   "isEffectChance": false,
   "isGravity": false,
@@ -36,8 +29,20 @@
   "isSlicingAttack": false,
   "isUnfreeze": false,
   "isWind": false,
-  "battleEngineAimedTarget": "adjacent_all_pokemon",
-  "battleStageMod": [],
+  "power": 90,
+  "pp": 20,
+  "priority": 0,
+  "accuracy": 100,
+  "movecriticalRate": 1,
+  "effectChance": 20,
   "moveStatus": [],
-  "effectChance": 0
+  "battleEngineMethod": "s_stat",
+  "battleStageMod": [
+    {
+      "battleStage": "DFE_STAGE",
+      "modificator": -1
+    }
+  ],
+  "battleEngineAimedTarget": "adjacent_pokemon",
+  "mapUse": 0
 }

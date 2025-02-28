@@ -35,6 +35,10 @@
     {
       "defensiveType": "steel",
       "factor": 2
+    },
+    {
+      "defensiveType": "aether",
+      "factor": 0.5
     }
   ],
   "color": "#c99457"
