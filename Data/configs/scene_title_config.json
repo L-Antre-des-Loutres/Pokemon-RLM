@@ -1,11 +1,9 @@
 {
   "klass": "Configs::Project::SceneTitle",
-  "introMovieMapId": 1,
+  "introMovieMapId": 0,
   "bgmName": "audio/bgm/rosa_title.ogg",
   "bgmDuration": 4418000,
   "isLanguageSelectionEnabled": false,
-  "additionalSplashes": [
-    "pokemon_workshop"
-  ],
+  "additionalSplashes": [],
   "controlWaitTime": 0.5
 }
