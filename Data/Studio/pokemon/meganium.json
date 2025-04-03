@@ -151,7 +151,7 @@
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "safeguard",
+          "move": "iron_head",
           "level": 54
         },
         {
@@ -471,12 +471,12 @@
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "razor_leaf",
+          "move": "iron_head",
           "level": 48
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "body_slam",
+          "move": "taunt",
           "level": 50
         },
         {
@@ -491,7 +491,7 @@
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "aromatherapy",
+          "move": "earthquake",
           "level": 60
         },
         {
@@ -501,7 +501,7 @@
         },
         {
           "klass": "LevelLearnableMove",
-          "move": "drill_run",
+          "move": "extreme_speed",
           "level": 68
         },
         {
@@ -700,6 +700,11 @@
         {
           "klass": "EvolutionLearnableMove",
           "move": "spiky_shield"
+        },
+        {
+          "klass": "LevelLearnableMove",
+          "move": "swords_dance",
+          "level": 71
         }
       ]
     }
