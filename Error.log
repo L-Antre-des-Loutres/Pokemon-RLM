@@ -1,0 +1,42 @@
+================================Erreur de script================================
+Message :
+(eval):2: syntax error, unexpected integer literal, expecting literal content or terminator or tSTRING_DBEG or tSTRING_DVAR
+cry_pokemon(:511)
+             ^~~
+
+
+Type : SyntaxError
+Script : tools/GameLoader/z_eval_killer.rb (PSDK)
+Ligne : 30
+Date : 08/05/2025 04:20:35
+Game Version : 256
+Logiciel : PSDK 26.38
+===================================Backtraces===================================
+[26] : tools/GameLoader/z_eval_killer.rb (PSDK) | ligne 30 class_eval
+[25] : tools/GameLoader/z_eval_killer.rb (PSDK) | ligne 30 build_method
+[24] : tools/GameLoader/z_eval_killer.rb (PSDK) | ligne 23 resolve_method_symbol
+[23] : 1_RMXP_Scripts.rb (PSDK) | ligne 2107 eval_script
+[22] : 1_RMXP_Scripts.rb (PSDK) | ligne 2099 command_355
+[21] : 1_RMXP_Scripts.rb (PSDK) | ligne 1083 execute_command
+[20] : 1_RMXP_Scripts.rb (PSDK) | ligne 963 update
+[19] : 1_RMXP_Scripts.rb (PSDK) | ligne 944 loop
+[18] : 1_RMXP_Scripts.rb (PSDK) | ligne 944 update
+[17] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9089 auto_transfert_update
+[16] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9087 loop
+[15] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9087 auto_transfert_update
+[14] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 8959 update
+[13] : 0_Dependencies.rb (PSDK) | ligne 1326 times
+[12] : 0_Dependencies.rb (PSDK) | ligne 1326 run
+[11] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 8959 update
+[10] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 236 main_process
+[9] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 144 main
+[8] : tools/GameLoader/Z_main.rb (PSDK) | ligne 18 <top (required)>
+[7] : tools/GameLoader/3_load_extensions.rb (PSDK) | ligne 49 rgss_main
+[6] : tools/GameLoader/50_load_game_uncompiled.rb (PSDK) | ligne 54 <top (required)>
+[5] : ScriptLoad.rb (PSDK) | ligne 198 require
+[4] : ScriptLoad.rb (PSDK) | ligne 198 load_tool
+[3] : tools/GameLoader/Z_load_uncompiled.rb (PSDK) | ligne 17 <top (required)>
+[2] : ScriptLoad.rb (PSDK) | ligne 198 require
+[1] : ScriptLoad.rb (PSDK) | ligne 198 load_tool
+[0] : Game.rb (RMXP) | ligne 11 <main>
+===================================Fin du log===================================

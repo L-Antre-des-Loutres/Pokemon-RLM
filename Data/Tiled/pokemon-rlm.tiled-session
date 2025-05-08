@@ -5,8 +5,8 @@
     },
     "activeFile": "Maps/102 TestJonjon.tmx",
     "expandedProjectPaths": [
-        "Tilesets",
         "Maps",
+        "Tilesets",
         "."
     ],
     "fileStates": {
@@ -147,11 +147,11 @@
             }
         },
         "Maps/019 Exterior.tmx": {
-            "scale": 1,
+            "scale": 2,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1007,
-                "y": 1602
+                "x": 660.5,
+                "y": 1875
             }
         },
         "Maps/020 Route.tmx": {
@@ -232,17 +232,18 @@
         },
         "Maps/102 TestJonjon.tmx": {
             "expandedGroupLayers": [
-                48,
-                49,
-                14,
                 4,
-                3
+                3,
+                48,
+                14,
+                25,
+                49
             ],
-            "scale": 0.25,
-            "selectedLayer": 1,
+            "scale": 0.33,
+            "selectedLayer": 21,
             "viewCenter": {
-                "x": 1580,
-                "y": 1180
+                "x": 2080.30303030303,
+                "y": 1596.969696969697
             }
         },
         "Maps/rules_DP_trees.tmx": {
@@ -300,7 +301,7 @@
             "scaleInEditor": 1
         },
         "Tilesets/TECH-Assets.tsx": {
-            "scaleInDock": 1,
+            "scaleInDock": 0.75,
             "scaleInEditor": 0.5
         },
         "Tilesets/TECH-Battle.tsx": {
@@ -336,7 +337,7 @@
             "scaleInEditor": 1
         },
         "Tilesets/TECH-Misc..tsx": {
-            "scaleInDock": 1.5,
+            "scaleInDock": 0.75,
             "scaleInEditor": 1
         },
         "Tilesets/TECH-Mounts.tsx": {
@@ -391,6 +392,8 @@
     ],
     "project": "pokemon-rlm.tiled-project",
     "recentFiles": [
+        "Maps/102 TestJonjon.tmx",
+        "Maps/019 Exterior.tmx",
         "Maps/005 River.tmx",
         "Maps/011 RocketHQ.tmx",
         "Maps/008 Marsh.tmx",
@@ -400,9 +403,7 @@
         "Maps/010 CyclingRoad.tmx",
         "Maps/012 Elevator 2.tmx",
         "Maps/013 Labo.tmx",
-        "Maps/014 Library.tmx",
-        "Maps/015 PhotoStudio.tmx",
-        "Maps/016 GameCorner.tmx"
+        "Maps/014 Library.tmx"
     ],
     "tileset.lastUsedFormat": "tsx"
 }
