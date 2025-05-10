@@ -54,6 +54,21 @@
         "shadow_tag"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "",
+        "iconShiny": "",
+        "front": "Nyxinferno",
+        "frontShiny": "",
+        "back": "",
+        "backShiny": "",
+        "footprint": "",
+        "character": "",
+        "characterShiny": "",
+        "cry": "",
+        "hasFemale": false,
+        "egg": "egg",
+        "iconEgg": "egg"
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -449,20 +464,7 @@
           "klass": "TechLearnableMove",
           "move": "power_up_punch"
         }
-      ],
-      "resources": {
-        "icon": "",
-        "iconShiny": "",
-        "front": "Nyxinferno",
-        "frontShiny": "",
-        "back": "",
-        "backShiny": "",
-        "footprint": "",
-        "character": "",
-        "characterShiny": "",
-        "cry": "",
-        "hasFemale": false
-      }
+      ]
     }
   ]
 }

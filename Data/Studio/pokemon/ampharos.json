@@ -75,7 +75,9 @@
         "character": "181_0",
         "characterShiny": "181s_0",
         "cry": "181cry.ogg",
-        "hasFemale": false
+        "hasFemale": false,
+        "egg": "egg",
+        "iconEgg": "egg"
       },
       "moveSet": [
         {
@@ -476,7 +478,9 @@
         "character": "181_0",
         "characterShiny": "181s_0",
         "cry": "181cry.ogg",
-        "hasFemale": false
+        "hasFemale": false,
+        "egg": "egg",
+        "iconEgg": "egg"
       },
       "moveSet": [
         {
@@ -867,7 +871,9 @@
         "character": "181_0",
         "characterShiny": "181s_0",
         "cry": "181_30cry.ogg",
-        "hasFemale": false
+        "hasFemale": false,
+        "egg": "egg",
+        "iconEgg": "egg"
       },
       "moveSet": [
         {
@@ -1497,7 +1503,9 @@
         "character": "181_0",
         "characterShiny": "181s_0",
         "cry": "181cry.ogg",
-        "hasFemale": false
+        "hasFemale": false,
+        "egg": "egg",
+        "iconEgg": "egg"
       },
       "moveSet": [
         {

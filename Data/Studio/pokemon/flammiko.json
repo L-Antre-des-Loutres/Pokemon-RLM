@@ -54,6 +54,21 @@
         "simple"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "",
+        "iconShiny": "",
+        "front": "N15",
+        "frontShiny": "",
+        "back": "",
+        "backShiny": "",
+        "footprint": "",
+        "character": "",
+        "characterShiny": "",
+        "cry": "",
+        "hasFemale": false,
+        "egg": "egg",
+        "iconEgg": "egg"
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -395,20 +410,7 @@
           "klass": "TechLearnableMove",
           "move": "overheat"
         }
-      ],
-      "resources": {
-        "icon": "",
-        "iconShiny": "",
-        "front": "N15",
-        "frontShiny": "",
-        "back": "",
-        "backShiny": "",
-        "footprint": "",
-        "character": "",
-        "characterShiny": "",
-        "cry": "",
-        "hasFemale": false
-      }
+      ]
     }
   ]
 }

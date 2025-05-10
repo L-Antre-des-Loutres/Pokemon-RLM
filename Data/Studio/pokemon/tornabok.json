@@ -54,6 +54,21 @@
         "grass_pelt"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "",
+        "iconShiny": "",
+        "front": "Tornabok",
+        "frontShiny": "",
+        "back": "",
+        "backShiny": "",
+        "footprint": "",
+        "character": "",
+        "characterShiny": "",
+        "cry": "",
+        "hasFemale": false,
+        "egg": "egg",
+        "iconEgg": "egg"
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -344,20 +359,7 @@
           "klass": "TechLearnableMove",
           "move": "secret_power"
         }
-      ],
-      "resources": {
-        "icon": "",
-        "iconShiny": "",
-        "front": "Tornabok",
-        "frontShiny": "",
-        "back": "",
-        "backShiny": "",
-        "footprint": "",
-        "character": "",
-        "characterShiny": "",
-        "cry": "",
-        "hasFemale": false
-      }
+      ]
     }
   ]
 }

@@ -65,7 +65,9 @@
         "character": "192_0",
         "characterShiny": "192s_0",
         "cry": "192cry.ogg",
-        "hasFemale": false
+        "hasFemale": false,
+        "egg": "egg",
+        "iconEgg": "egg"
       },
       "moveSet": [
         {
@@ -384,7 +386,9 @@
         "character": "192_0",
         "characterShiny": "192s_0",
         "cry": "192cry.ogg",
-        "hasFemale": false
+        "hasFemale": false,
+        "egg": "egg",
+        "iconEgg": "egg"
       },
       "moveSet": [
         {
@@ -715,7 +719,9 @@
         "character": "192_0",
         "characterShiny": "192s_0",
         "cry": "192cry.ogg",
-        "hasFemale": false
+        "hasFemale": false,
+        "egg": "egg",
+        "iconEgg": "egg"
       },
       "moveSet": [
         {
@@ -1026,7 +1032,9 @@
         "character": "192_0",
         "characterShiny": "192s_0",
         "cry": "192cry.ogg",
-        "hasFemale": false
+        "hasFemale": false,
+        "egg": "egg",
+        "iconEgg": "egg"
       },
       "moveSet": [
         {

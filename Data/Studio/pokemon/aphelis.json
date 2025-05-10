@@ -54,6 +54,21 @@
         "serene_grace"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "",
+        "iconShiny": "",
+        "front": "Aphelis",
+        "frontShiny": "",
+        "back": "",
+        "backShiny": "",
+        "footprint": "",
+        "character": "",
+        "characterShiny": "",
+        "cry": "",
+        "hasFemale": false,
+        "egg": "egg",
+        "iconEgg": "egg"
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -310,20 +325,7 @@
           "klass": "EvolutionLearnableMove",
           "move": "enchantement"
         }
-      ],
-      "resources": {
-        "icon": "",
-        "iconShiny": "",
-        "front": "Aphelis",
-        "frontShiny": "",
-        "back": "",
-        "backShiny": "",
-        "footprint": "",
-        "character": "",
-        "characterShiny": "",
-        "cry": "",
-        "hasFemale": false
-      }
+      ]
     }
   ]
 }

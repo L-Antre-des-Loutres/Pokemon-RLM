@@ -54,6 +54,21 @@
         "unaware"
       ],
       "frontOffsetY": 0,
+      "resources": {
+        "icon": "",
+        "iconShiny": "",
+        "front": "N7",
+        "frontShiny": "",
+        "back": "",
+        "backShiny": "",
+        "footprint": "",
+        "character": "",
+        "characterShiny": "",
+        "cry": "",
+        "hasFemale": false,
+        "egg": "egg",
+        "iconEgg": "egg"
+      },
       "moveSet": [
         {
           "klass": "LevelLearnableMove",
@@ -339,20 +354,7 @@
           "klass": "BreedLearnableMove",
           "move": "wide_guard"
         }
-      ],
-      "resources": {
-        "icon": "",
-        "iconShiny": "",
-        "front": "N7",
-        "frontShiny": "",
-        "back": "",
-        "backShiny": "",
-        "footprint": "",
-        "character": "",
-        "characterShiny": "",
-        "cry": "",
-        "hasFemale": false
-      }
+      ]
     }
   ]
 }

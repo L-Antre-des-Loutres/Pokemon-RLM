@@ -67,7 +67,9 @@
         "character": "",
         "characterShiny": "",
         "cry": "",
-        "hasFemale": true
+        "hasFemale": true,
+        "egg": "egg",
+        "iconEgg": "egg"
       },
       "moveSet": [
         {

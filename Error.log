@@ -1,33 +1,32 @@
 ================================Erreur de script================================
 Message :
-(eval):2: syntax error, unexpected integer literal, expecting literal content or terminator or tSTRING_DBEG or tSTRING_DVAR
-cry_pokemon(:511)
-             ^~~
+undefined method `isUseBattleCamera3d=' for #<Configs::Project::Settings:0x108dcce0>
 
-
-Type : SyntaxError
-Script : tools/GameLoader/z_eval_killer.rb (PSDK)
-Ligne : 30
-Date : 08/05/2025 04:20:35
+Type : NoMethodError
+Script : 000_a_root.rb (PSDK)
+Ligne : 341
+Date : 10/05/2025 13:27:37
 Game Version : 256
-Logiciel : PSDK 26.38
+Logiciel : PSDK 26.40
 ===================================Backtraces===================================
-[26] : tools/GameLoader/z_eval_killer.rb (PSDK) | ligne 30 class_eval
-[25] : tools/GameLoader/z_eval_killer.rb (PSDK) | ligne 30 build_method
-[24] : tools/GameLoader/z_eval_killer.rb (PSDK) | ligne 23 resolve_method_symbol
-[23] : 1_RMXP_Scripts.rb (PSDK) | ligne 2107 eval_script
-[22] : 1_RMXP_Scripts.rb (PSDK) | ligne 2099 command_355
-[21] : 1_RMXP_Scripts.rb (PSDK) | ligne 1083 execute_command
-[20] : 1_RMXP_Scripts.rb (PSDK) | ligne 963 update
-[19] : 1_RMXP_Scripts.rb (PSDK) | ligne 944 loop
-[18] : 1_RMXP_Scripts.rb (PSDK) | ligne 944 update
-[17] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9089 auto_transfert_update
-[16] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9087 loop
-[15] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 9087 auto_transfert_update
-[14] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 8959 update
-[13] : 0_Dependencies.rb (PSDK) | ligne 1326 times
-[12] : 0_Dependencies.rb (PSDK) | ligne 1326 run
-[11] : 4_Systems_003_Map_Engine.rb (PSDK) | ligne 8959 update
+[28] : 000_a_root.rb (PSDK) | ligne 341 load_config_data
+[27] : 000_a_root.rb (PSDK) | ligne 339 each
+[26] : 000_a_root.rb (PSDK) | ligne 339 load_config_data
+[25] : 000_a_root.rb (PSDK) | ligne 314 load_file_data
+[24] : 000_a_root.rb (PSDK) | ligne 296 register
+[23] : 4_Systems_000_General_3_GameState.rb (PSDK) | ligne 167 <class:GameState>
+[22] : 4_Systems_000_General_3_GameState.rb (PSDK) | ligne 189 instance_exec
+[21] : 4_Systems_000_General_3_GameState.rb (PSDK) | ligne 189 game_state_initialize
+[20] : 4_Systems_000_General_3_GameState.rb (PSDK) | ligne 188 each_value
+[19] : 4_Systems_000_General_3_GameState.rb (PSDK) | ligne 188 game_state_initialize
+[18] : 4_Systems_000_General_3_GameState.rb (PSDK) | ligne 182 initialize
+[17] : 4_Systems_106_Save_Load.rb (PSDK) | ligne 450 new
+[16] : 4_Systems_106_Save_Load.rb (PSDK) | ligne 450 create_new_party
+[15] : 4_Systems_106_Save_Load.rb (PSDK) | ligne 418 create_new_game
+[14] : 4_Systems_106_Save_Load.rb (PSDK) | ligne 412 action_a
+[13] : 4_Systems_106_Save_Load.rb (PSDK) | ligne 329 update_inputs
+[12] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 433 update
+[11] : 00100 NewUIs/00101 Menu/00101 NewSaveLoad.rb (user) | ligne 14 update
 [10] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 236 main_process
 [9] : 4_Systems_000_General_2_GamePlay__Base.rb (PSDK) | ligne 144 main
 [8] : tools/GameLoader/Z_main.rb (PSDK) | ligne 18 <top (required)>
